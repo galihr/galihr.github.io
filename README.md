@@ -1,4 +1,4 @@
-# galihr.github.io
+# galihr
 tugas psi
 
 ## materi website
